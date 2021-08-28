@@ -1,0 +1,11 @@
+Question: 1
+(a) o/p 246
+(b) o/p 852 
+
+Question: 2
+(1) (d) -32768 to 32767
+(2) (b) the current value of a
+(3) (c) Anywhere, but starting on a new line
+(4) (d) do while
+(5) (c) linear
+

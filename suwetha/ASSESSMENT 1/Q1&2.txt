@@ -1,0 +1,11 @@
+QUESTION 1:
+Find the output of the below programs
+1. 2 4 6
+2.8 5 2
+QUESTION 2:
+ANSWER:
+1. c.-32668 to 32667
+2. b.The current value of a
+3. c.Anywhere , but starting on a new line
+4. d. do while
+5. d.data type

@@ -1,0 +1,7 @@
+1 i)246
+  ii)852
+2 b)-32767 to 32768
+  b) The current value of a
+  c)anywhere,but starting on a new line
+  d)do while
+  c)linear

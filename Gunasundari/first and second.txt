@@ -1,0 +1,12 @@
+Question 1: 1.Infinite loop
+	    2. 8 5 2
+
+
+Question 2:
+1. -32768 to 32767
+2. error message
+3. Anywhere, but starting on a new line
+4. do while
+5. linear
+
+
