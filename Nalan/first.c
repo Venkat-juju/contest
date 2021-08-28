@@ -1,23 +1,41 @@
 #include<stdio.h>
 #include<iostream>
-/*3.) A Fizz Buzz program prints the number from the range of 1 to n, where n is the
-input number taken from the user*/
 
 int main()
 {
-	int a;
-	char b = *;
-	printf("Enter the Number of rows: ");
-	scanf_s("%d", &a);
+	int n;
+	printf("Enter the Number: ");
+	scanf_s("%d", &n);
 
-	for (int i = 1; i <= a; i+2)
+	for (int i = 1; i <= n; i++)
 	{
-		for (int j = a; j >= 1; j--)
+		if (i % 3 != 0)
 		{
-			printf(" ");
+			if (i % 5 != 0)
+			{
+				printf("%d\t", i);
+			}
+			if (i % 5 == 0)
+			{
+				printf("buzz\t");
+			}
 		}
-		printf("%c", i * b);
+		if (i % 3 == 0)
+		{
+			if (i % 5 == 0)
+			{
+				printf("fizzbuzz\t");
+			}
+			else
+			{
+				printf("fizz\t");
+			}
+		}
+		
+
 	}
 
-	return 0;
+
+
+
 }
