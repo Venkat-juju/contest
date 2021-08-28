@@ -1,0 +1,12 @@
+Question 1(a). infinite loop(not defined i value)
+(it takes garbage value)
+
+1(b).8 
+
+Question 2:
+1)d)-32768to 32767
+2)b)current value 
+3)d)none of this
+4)D)do while
+5)c)linear
+
